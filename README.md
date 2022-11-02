@@ -36,7 +36,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 ## Conclusions
 - Optimal value of alpha for Ridge - 10
-- Optimal value of alpha for Ridge - 0.001
+- Optimal value of alpha for Lasso - 0.001
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
